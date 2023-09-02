@@ -14,3 +14,5 @@ install pnpm-lock.yaml[package-lock.json] : pnpm install
 
 ### Run and Check terminal
 start toolkit : pnpm run dev
+
+### change viteStarter project name according to your project
