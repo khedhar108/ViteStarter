@@ -1,11 +1,9 @@
 ## React + Vite + Tailwind CSS + pnpm in termial
 
 # Clone this starter kit
-
 git clone https://github.com/khedhar108/ViteStarter.git
 
 # Global pnpm setup if not setup earlier
-
 -npm install -g pnpm
 
 # root directory where package.json is located run following command
